@@ -1,2 +1,2 @@
 # Urban-Monkey
-This is just a website framework
+This is just a website template
