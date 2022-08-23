@@ -1,2 +1,2 @@
 # Urban-Monkey
-This is just a website template
+This is just a website template.
